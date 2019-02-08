@@ -13,7 +13,7 @@ def main
     'title' => 'Personal rules (@tekezo)',
     'rules' => [
       {
-        'description' => 'Personal rules (@tekezo) (rev 5)',
+        'description' => 'Personal rules (@tekezo) (rev 7)',
         'manipulators' =>
         control_1234 +
         option_hyphen +
